@@ -1,2 +1,2 @@
 torch-geometric
-torchvision==0.12.0
+torchvision==0.14.1+cu117
